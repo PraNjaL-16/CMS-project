@@ -1,0 +1,1 @@
+1. Import this sql file (i.e cms sql file) to "localhost\phpmyadmin\" to get database required for this project/directory.

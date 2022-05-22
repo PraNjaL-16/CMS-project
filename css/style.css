@@ -1,0 +1,4 @@
+/* pagination */
+.pager li .active_link {
+  background: #000 !important;
+}
